@@ -223,7 +223,7 @@ Data-Redundancy-Removal-System
 
 # 👩‍💻 Author
 
-**Ruchita Deshmukh**
+**Ruchita Amey Deshmukh**
 
 AWS Cloud Internship Project
 
